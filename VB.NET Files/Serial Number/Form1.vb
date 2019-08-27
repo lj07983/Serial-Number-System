@@ -5,6 +5,7 @@ Imports System.Management
 Imports System.Security
 
 Public Class Form1
+    'test colone
 
     Dim hwid As String
     Dim check As Integer

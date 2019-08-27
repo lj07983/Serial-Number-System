@@ -9,3 +9,15 @@ c:\users\darcy\documents\visual studio 2017\Projects\Serial Number\Serial Number
 c:\users\darcy\documents\visual studio 2017\Projects\Serial Number\Serial Number\obj\Debug\Serial Number.exe
 c:\users\darcy\documents\visual studio 2017\Projects\Serial Number\Serial Number\obj\Debug\Serial Number.xml
 c:\users\darcy\documents\visual studio 2017\Projects\Serial Number\Serial Number\obj\Debug\Serial Number.pdb
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\bin\Debug\Serial Number.exe.config
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\bin\Debug\Serial Number.exe
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\bin\Debug\Serial Number.pdb
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\bin\Debug\Serial Number.xml
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\obj\Debug\Serial Number.vbprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\obj\Debug\Serial_Number.Form1.resources
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\obj\Debug\Serial_Number.Resources.resources
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\obj\Debug\Serial Number.vbproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\obj\Debug\Serial Number.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\obj\Debug\Serial Number.exe
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\obj\Debug\Serial Number.xml
+C:\Users\Administrator\Source\Repos\Serial-Number-System\VB.NET Files\Serial Number\obj\Debug\Serial Number.pdb
